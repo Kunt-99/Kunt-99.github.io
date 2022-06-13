@@ -8,7 +8,7 @@ var n=function(){
 	return a("v-uni-view",[a("v-uni-view",{staticClass:"time_top"},[t._v(t._s(t.startTime))]),a("v-uni-view",{staticClass:"codeBox"},[a("v-uni-image",{staticClass:"codeImg",attrs:{src:e("9492")}})],1),
 		   a("v-uni-view",{staticClass:"outText"},[t._v("外出时间")]),a("v-uni-view",{staticClass:"outValue"},[a("v-uni-view",{staticClass:"outValue_input"},[a("v-uni-view",{staticClass:"outValue_Text"},[t._v("离校时间")]),a("v-uni-input",{staticClass:"outValue_Time",attrs:{type:"text"},model:{value:t.backTime,callback:function(i){t.backTime=i},expression:"backTime"}})],1),
 		   a("v-uni-view",{staticClass:"line"}),a("v-uni-view",{staticClass:"outValue_input"},[a("v-uni-view",{staticClass:"outValue_Text"},[t._v("回校时间")]),a("v-uni-input",{staticClass:"outValue_Time",attrs:{type:"text"},model:{value:t.endTime,callback:function(i){t.endTime=i},expression:"endTime"}})],1)],1),
-		   a("v-uni-view",{staticClass:"outText"},[t._v("学生信息")]),a("v-uni-view",{staticStyle:{"background-color":"#FFFFFF"}},[a("v-uni-view",{staticClass:"info_Input"},[a("v-uni-view",{staticClass:"info_lable"},[t._v("姓名")]),a("v-uni-input",{staticClass:"info_value"},[t._v("黎昆涛")])],1),
+		   a("v-uni-view",{staticClass:"outText"},[t._v("学生信息")]),a("v-uni-view",{staticStyle:{"background-color":"#FFFFFF"}},[a("v-uni-view",{staticClass:"info_Input"},[a("v-uni-view",{staticClass:"info_lable"},[t._v("姓名")]),a("v-uni-view",{staticClass:"info_value"},[t._v("黎昆涛")])],1),
 		   a("v-uni-view",{staticClass:"line"}),
 		   a("v-uni-view",{staticClass:"info_Input"},[a("v-uni-view",{staticClass:"info_lable"},[t._v("学号")]),
 		   a("v-uni-view",{staticClass:"info_value"},[a("span",[t._v("2112014032")])])],1),
